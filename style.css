@@ -1,0 +1,43 @@
+.header{
+    background-color: rgb(184, 99, 108);
+    text-align: center;
+    
+
+    
+     
+}
+.Products{
+    background-color: rgba(240, 220, 220, 0.938);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 70px; ;
+   display: flex ruby-text;
+    border-radius: 25px;
+        
+}
+.item image {
+    margin: 50px;
+    border-radius: 10px;
+
+    
+}
+.footer{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    
+    background-color: rgb(182, 94, 109);
+    
+
+
+}
+.category:hover a{
+    background-color: rgb(214, 218, 224);
+    color:sandybrown ;
+}
+
+.footer img{
+    border-radius: 10px;
+}
